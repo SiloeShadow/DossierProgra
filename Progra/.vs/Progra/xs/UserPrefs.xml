@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{C9EB1298-75E9-1357-22CE-E80789C4C3B2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/testRMS.cs">
+    <Files>
+      <File FileName="Assets/Script/AudioAnalysis.cs" Line="81" Column="1" />
+      <File FileName="Assets/Script/AudioSpectrum.cs" Line="39" Column="1" />
+      <File FileName="Assets/Script/AudioWave.cs" Line="39" Column="1" />
+      <File FileName="Assets/Script/testDB.cs" Line="19" Column="1" />
+      <File FileName="Assets/Script/testPitch.cs" Line="23" Column="1" />
+      <File FileName="Assets/Script/testRMS.cs" Line="15" Column="60" />
+      <File FileName="Assets/Script/Circus.cs" Line="25" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
